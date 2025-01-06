@@ -5,7 +5,7 @@ layout: home
 
 This is a set of worksheets to keep you in the zone.  What is the zone? Well here is a short I made:
 
-
+This is test
 
 [Browse our documentation][Just the Docs] to learn more about how to use this theme.
 

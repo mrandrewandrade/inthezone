@@ -5,8 +5,6 @@ layout: home
 
 This is a set of worksheets to keep you in the zone.  What is the zone? Well here is a short I made:
 
-Today I wish it was a snowday, alas but it is not. What to do?
-
 [Browse our documentation][Just the Docs] to learn more about how to use this theme.
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/

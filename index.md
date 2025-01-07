@@ -7,6 +7,8 @@ This is a set of worksheets to keep you in the zone.  What is the zone? Well her
 
 [Browse our documentation][Just the Docs] to learn more about how to use this theme.
 
+THis is an examp,le of a change.
+
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
